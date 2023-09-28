@@ -1,3 +1,9 @@
 # Taller1
 
-![D:\Usuarios\asir2\repositorios\prueba_carlos_aguilar\1.png](Primer apartado)
+![Primer apartado](1.png)
+
+![Segundo apartado](2.png)
+
+![Tercer apartado](3.png)
+
+![Cuarto apartado](4.png)
