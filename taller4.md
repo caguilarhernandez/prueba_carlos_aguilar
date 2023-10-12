@@ -42,7 +42,7 @@
 
 ![Imagen haciendo pull request](/22.png)
 
-  Y ya esta aceptado el pull request y juntado tu aportacion al repositorio.
+  Y ya esta aceptado el pull request y juntada tu aportacion al repositorio.
 
 ![Imagen haciendo pull request](/27.png)
 
