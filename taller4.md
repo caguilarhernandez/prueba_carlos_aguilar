@@ -46,6 +46,8 @@
 
 ![Imagen haciendo pull request](/27.png)
 
+![Imagen haciendo pull request](/30.png)
+
 ![Imagen haciendo pull request](/28.png)
 
 ![Imagen haciendo pull request](/29.png)
