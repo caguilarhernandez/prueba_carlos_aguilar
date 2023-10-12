@@ -18,7 +18,7 @@
 
 [Enlace a tutorial de Markdown diferente](https://https://lumigv.github.io/iaw_202324/unidad1/markdown.html)
 
-[Enlace a otro fichero Markdown](/prueba_carlos_aguilar/Markdown.txt)
+[Enlace a otro fichero Markdown](/Markdown.txt)
 
 ![Enlace a una imagen Markdown](/Markdown.png)
 
