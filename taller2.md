@@ -16,11 +16,11 @@
 1. Solo tienes que poner un numero seguido de un punto.
 1. Sin importar el numero que pongas antes del punto.
 
-[Enlace a tutorial de markdown diferente](https://https://lumigv.github.io/iaw_202324/unidad1/markdown.html)
+[Enlace a tutorial de Markdown diferente](https://https://lumigv.github.io/iaw_202324/unidad1/markdown.html)
 
-[Enlace a otro fichero Markdown](/prueba_carlos_aguilar/texto.txt)
+[Enlace a otro fichero Markdown](/prueba_carlos_aguilar/Markdown.txt)
 
-![Enlace a una imagen](/prueba_carlos_aguilar/Markdown.png)
+![Enlace a una imagen Markdown](/Markdown.png)
 
 |Formato del texto|Agrupacion del texto|Enlaces|
 |:---:|:---:|:---:|
